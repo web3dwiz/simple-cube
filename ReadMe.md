@@ -4,7 +4,7 @@ yarn
 
 ## Run Project
 
-yarn dev
+yarn start
 
 ## Build Packages
 
